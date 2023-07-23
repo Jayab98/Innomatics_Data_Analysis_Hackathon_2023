@@ -8,28 +8,31 @@ In this data analysis project, I am going to explore and visualize the comprehen
 The findings can offer significant implications for sustainable mobility planning, environmental policies, and automotive industry strategies in a world increasingly focused on a greener future.
 
 
-IMPORTING DATASET
+**IMPORTING DATASET**
 Using Pandas library we are going to import the dataset
 
-DATA CLEANING
+**DATA CLEANING**
 Data cleaning and preprocessing is to ensure the data is in a suitable format for visualization.
 
-EXPLORATORY DATA ANALYSIS
+**EXPLORATORY DATA ANALYSIS
 TASK_1
-UNIVARIATE ANALYSIS
+UNIVARIATE ANALYSIS**
 Univariate analysis involves a single variable at a time.The purpose of univariate analysis is to understand the distribution, central tendency, and spread of a variable.
 
-BIVARATE ANALYSIS
+**BIVARATE ANALYSIS**
 
 Bivariate analysis helps to find the relationship between two variables. The primary objective is to understand how one variable may influence or relate to another.
 
-TASK_2
-CHOROPLETH
+**TASK_2
+CHOROPLETH**
 A choropleth map is a type of thematic map that displays data using different shades or colors to represent different geographic areas' values. It allows us to visualize spatial patterns and variations across regions.
 
-TASK_3
-RACING BAR PLOT
-CONCLUSION¶
+**TASK_3
+RACING BAR PLOT**
+
+Refer all images posted in images folders for charts outcome. 
+
+**CONCLUSION**
 From the above analysis and visualizations,The EV market has experienced steady growth over the years, with increasing adoption of EVs across different makes and models.
 
 Tesla and Nissan have been among the top contenders in the EV market, consistently producing popular electric vehicles.Electric range and eligibility for clean alternative fuel vehicle incentives are some of important factors influencing EV adoption.
